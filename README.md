@@ -52,5 +52,3 @@ A simple and responsive calculator built with **HTML, CSS, and JavaScript**, des
 ---
 
 ⭐ If you like this project, don’t forget to star the repo! ⭐
-
-⭐ If you like this project, don’t forget to **star the repo!** ⭐  
